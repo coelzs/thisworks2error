@@ -33,7 +33,7 @@ tasks.named('test') {
 }
 
 // Update the frontendDir path to the correct location
-def frontendDir = "C:/Users/coelz/Desktop/testonly/Dongne-ITS/Front-End"
+def frontendDir = "C:/Users/coelz/Desktop/thisworks2error/thisworks2error/Front-End"
 
 sourceSets {
 	main {
